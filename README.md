@@ -9,23 +9,19 @@ Estudante de Engenharia de Software focado em soluções inteligentes com <b>Pyt
 ###
 
 <div align="center">
-  <img src="https://vercel.app" height="150" alt="estatísticas"  />
-  <img src="https://vercel.app" height="150" alt="linguagens"  />
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
 </div>
 
 ###
 
 <h3 align="left">🛠 Minhas Tecnologias</h3>
 <div align="left">
-  <img src="https://jsdelivr.net" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://jsdelivr.net" height="40" alt="pandas logo"  />
-  <img width="15" />
-  <img src="https://jsdelivr.net" height="40" alt="flask logo"  />
-  <img width="15" />
-  <img src="https://jsdelivr.net" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://jsdelivr.net" height="40" alt="css3 logo"  />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="Flask" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
 </div>
 
 ###
@@ -33,10 +29,10 @@ Estudante de Engenharia de Software focado em soluções inteligentes com <b>Pyt
 <h3 align="left">📬 Vamos nos conectar?</h3>
 <div align="left">
   <a href="mailto:davidifrancarocha@gmail.com">
-    <img src="https://shields.io" height="35" alt="gmail logo"  />
+    <img src="https://shields.io" alt="Gmail" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://shields.io" height="35" alt="linkedin logo"  />
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
 
@@ -45,6 +41,5 @@ Estudante de Engenharia de Software focado em soluções inteligentes com <b>Pyt
 <br clear="both">
 
 <div align="center">
-  <p><b>Contribuições</b></p>
-  <img src="https://herokuapp.com" alt="streak stats" />
+  <img src="https://herokuapp.com" alt="Sequência de contribuições" />
 </div>
