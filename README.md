@@ -1,49 +1,72 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![banner](https://media.licdn.com/dms/image/v2/D4D16AQF6ldNuLTH9sw/profile-displaybackgroundimage-shrink_200_800/B4DZ0_FFUYJ4AY-/0/1774879792259?e=1778716800&v=beta&t=C0BRF-0uSRzqWeO6PFrLFrbEmzRNUtrKv1l2-AMAaAM)
 
-###
+<h1 align="center">Hi 👋, I'm Davi França Rocha</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  💻 Estudante de Engenharia de Software | Desenvolvedor Python & RPA <br>
+  📍 Cachoeiro de Itapemirim - ES | 28 999045618
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 Sobre mim
+- 🎓 Estudante de Engenharia de Software (Anhanguera)
+- 💡 Focado em automações, análise de dados e soluções inteligentes e IA
+- 🎯 Buscando minha primeira oportunidade como Estagiário em TI
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🌐 Onde me encontrar
+<p align="left">
+  <a href="https://github.com/DaviFranRocha">
+    <img src="https://img.shields.io/badge/GitHub-DaviFranRocha-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/d.franrochaa/">
+    <img src="https://img.shields.io/badge/Instagram-@d.franrochaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@davifran_7?lang=pt-BR">
+    <img src="https://img.shields.io/badge/TikTok-@davifran_7-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🧠 Tecnologias
 
-###
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### ⚙️ Ferramentas & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![PyAutoGUI](https://img.shields.io/badge/RPA-Automation-blue?style=for-the-badge)
 
-###
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma) 
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviFranRocha&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFranRocha&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔥 O que eu faço
+- 🤖 Automação de processos (RPA)
+- 📊 Análise de dados com Python
+- 🌐 Desenvolvimento Web com Flask
+- ⚡ Otimização de tarefas repetitivas
+
+---
+
+## 🚀 Objetivo
+Buscando minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades e contribuir com soluções eficientes.
+
+---
+
+## ⚡ Frase que me define
+> "Quem não coda, não evolui." 🚀
