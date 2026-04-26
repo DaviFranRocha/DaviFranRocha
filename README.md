@@ -64,7 +64,7 @@
 ---
 
 ## 🚀 Objetivo
-Buscando minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades e contribuir com soluções eficientes.
+oportunidade na área da tecnologia para desenvolver minhas habilidades e contribuir com soluções eficientes.
 
 ---
 
